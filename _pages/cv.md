@@ -1,4 +1,14 @@
 ---
+layout: page
+title: "CV"
+permalink: /CV.pdf/
+nav: true
+nav_order: 2
+dropdown: false
+---
+
+<!--
+---
 layout: archive
 title: "CV"
 permalink: /CV.pdf/
@@ -7,7 +17,6 @@ redirect_from:
   - /resume
 ---
 
-<!--
 {% include base_path %}
 
 Education
