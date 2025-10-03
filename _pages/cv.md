@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/cv.pdf" style="border: 0;">
-<p>
-Your browser does not support PDF files.
-<a href="mypdf.pdf">Download the file instead</a>
-</p>
-</iframe>
-
-
 <!--
 {% include base_path %}
 
@@ -72,3 +64,7 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+
+<a href="cv.pdf" target="_blank">Preview and Download CV</a>
+
