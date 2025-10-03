@@ -44,6 +44,6 @@ author_profile: true
 ---
 \* represents equal contribution
 
-- **Huang, C**., Hou, J., Wu, C., Cong, X., Zhou, M., Li, J., & Hong, D. (2025). [A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/10897307). IEEE Transactions on Geoscience and Remote Sensing.
+- **Chentong Huang** , Junming Hou , Chenxu Wu, Xiaofeng Cong , Man Zhou ,Junling Li , Member, IEEE, and Danfeng Hong , Senior Member, IEEE (2025). [A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/10897307). IEEE Transactions on Geoscience and Remote Sensing.
 
 
