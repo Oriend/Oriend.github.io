@@ -35,9 +35,11 @@ author_profile: true
 -->
 
 # Conference Papers
+\* represents equal contribution
 
 ------
 # Journal Papers
-
+\* represents equal contribution
+- 
 
 
