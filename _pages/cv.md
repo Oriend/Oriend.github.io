@@ -4,9 +4,15 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv.pdf
+  - /resume
 ---
 
+<iframe src="/cv.pdf" style="border: 0;">
+<p>
+Your browser does not support PDF files.
+<a href="mypdf.pdf">Download the file instead</a>
+</p>
+</iframe>
 
 
 <!--
