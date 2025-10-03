@@ -18,5 +18,5 @@ My research area is machine learning and deep learning theory. My research inter
 
 Contact: chuang80@ur.rochester.edu, chentongh2004@gmail.com
 
-News 
+News
 ------
