@@ -65,6 +65,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-
-<a href="CV.pdf" target="_blank">Preview and Download CV</a>
+<iframe src="./CV.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+<!-- <a href="" target="_blank">Preview and Download CV</a> -->
 
