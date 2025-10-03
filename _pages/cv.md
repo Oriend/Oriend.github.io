@@ -66,5 +66,5 @@ Service and leadership
 -->
 
 
-<a href="cv.pdf" target="_blank">Preview and Download CV</a>
+<a href="CV.pdf" target="_blank">Preview and Download CV</a>
 
