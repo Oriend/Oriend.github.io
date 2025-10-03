@@ -10,6 +10,9 @@
 main:
   # - title: "Homepage"
   #   url: /homepage/
+  
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
