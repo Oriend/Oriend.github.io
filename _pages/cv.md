@@ -65,6 +65,6 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-<iframe src="https://docs.google.com/viewer?url=https://github.com/your_username/your_repository/raw/branch/path/to/CV.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/Oriend/Oriend.github.io/blob/master/_pages/CV.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 <!-- <a href="" target="_blank">Preview and Download CV</a> -->
 
