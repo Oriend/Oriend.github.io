@@ -4,8 +4,6 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-------
- 
 
 <!--
 {% if site.talkmap_link == true %}
@@ -19,3 +17,4 @@ author_profile: true
 {% endfor %}
 -->
 
+---
