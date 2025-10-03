@@ -7,7 +7,7 @@ author_profile: true
 
 ## A General Cooperative Optimization Driven High-Frequency Enhancement Framework for Multi-Spectral Image Fusion
 ---
-**Background**: Existing methods in pan-sharpening tend to roughly fuse high-frequency components of PAN and LRMS images, overlooking cross-modality mismatch. This intrinsic inconsistency between PAN and MS modalities may potentially introduce spatial and spectral distortions, degrading the overall pan-sharpening performance. To be specific, most previous works merely use the reference HRMS images as training labels.<div align=center><img width="850" src="../images/News.png"/></div>
+**Background**: Existing methods in pan-sharpening tend to roughly fuse high-frequency components of PAN and LRMS images, overlooking cross-modality mismatch. This intrinsic inconsistency between PAN and MS modalities may potentially introduce spatial and spectral distortions, degrading the overall pan-sharpening performance. To be specific, most previous works merely use the reference HRMS images as training labels.<div align=center><img width="200" src="../images/News.png"/></div>
 
 **Contributions**: This work presents a general high-frequency enhancement framework through a cooperative optimization strategy using mutual information (MI) maximization and contrastive learning:
 
